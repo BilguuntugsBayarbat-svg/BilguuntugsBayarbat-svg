@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Security for Every Language — privacy-first engineering" width="100%" />
+  <img src="banner.svg" alt="Security for Every Language — privacy-first engineering" width="100%" />
 </p>
 <h1 align="center">Building security tools for overlooked languages</h1>
 <p align="center">
