@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Security for Every Language">
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1629"/><stop offset="1" stop-color="#152b42"/></linearGradient>
+  <linearGradient id="accent" x2="1" y2="0"><stop stop-color="#66e1ff"/><stop offset="1" stop-color="#8ce6b7"/></linearGradient>
+ </defs>
+ <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+ <g stroke="#56b8c3" stroke-opacity=".25" fill="none" stroke-width="2">
+  <path d="M845 38L956 68L1082 42L1149 114L1056 171L973 142L903 238L793 197Z"/>
+  <path d="M842 41L975 142L1149 114M956 68L1056 171L903 238M1082 42L973 142L793 197"/>
+ </g>
+ <g fill="#6be1c8"><circle cx="845" cy="38" r="4"/><circle cx="956" cy="68" r="5"/><circle cx="1082" cy="42" r="4"/><circle cx="1149" cy="114" r="4"/><circle cx="1056" cy="171" r="5"/><circle cx="903" cy="238" r="4"/><circle cx="793" cy="197" r="4"/></g>
+ <rect x="65" y="67" width="5" height="155" rx="2" fill="url(#accent)"/>
+ <text x="93" y="101" fill="#91dcd5" font-size="19" font-family="Arial,sans-serif" letter-spacing="4">PRIVACY-FIRST ENGINEERING</text>
+ <text x="91" y="160" fill="#fff" font-weight="700" font-size="48" font-family="Arial,sans-serif">SECURITY FOR</text>
+ <text x="91" y="215" fill="#a3f1da" font-weight="700" font-size="48" font-family="Arial,sans-serif">EVERY LANGUAGE</text>
+ <text x="93" y="258" fill="#b6c6d7" font-size="17" font-family="Arial,sans-serif">Mongolian AI · Cybersecurity · Responsible research</text>
+</svg>
