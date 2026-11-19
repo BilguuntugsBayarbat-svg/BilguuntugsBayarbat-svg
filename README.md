@@ -1,4 +1,4 @@
-![Security for Every Language](banner.svg)
+
 <p align="center">
   <img src="banner.svg" alt="Security for Every Language — privacy-first engineering" width="100%" />
 </p>
